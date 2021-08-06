@@ -1,0 +1,4 @@
+O processo TDD tem, como primeira etapa, a criação de um teste funcional. Enquanto este teste 
+não passar com sucesso, é realizado o processo de desenvolvimento. No processo de desenvolvimento,
+ portanto, é escrito testes de unidades a serem executados que sofrerão pequenas mudanças
+ até passarem com sucesso. Após isso, entra o processo de refatoração.
